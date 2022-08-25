@@ -1,8 +1,8 @@
 # 03_Basic Version and Branch Management (GIT)
 
 ## Data Diri
-Nomer urut : 1_015FLB_36
-Nama : Malvin Kuncoro Prawira
+#### Nomer urut : 1_015FLB_36
+####  Nama : Malvin Kuncoro Prawira
 
 ## Summery
 
@@ -21,25 +21,25 @@ Untuk Penginstalan GIT dapat di instal di Windows, Mac, Dan Linux.
 
 1. Setting Up
 - Git init : digunakan untuk membuat repository di file lokal
-    $ git init
+   ##### $ git init
 - Git clone : perintah yang digunakan untuk mengkloning repository lokal
-    $ git clone <Link repository>
-    $ cd my-project
+   ##### $ git clone <Link repository>
+   ##### $ cd my-project
 - Git config : menetapkan nama pengguna dan alamat surel.
-    $ git config --global user.name "siapa"
-    $ git config --global user.email "siapa"
+   ##### $ git config --global user.name "siapa"
+   ##### $ git config --global user.email "siapa"
 
 2. Saving changes
 - Git status : digunakan untuk mengetahui sebuah status dari sebuah repository lokal
-    $ Git status
+   ##### $ Git status
 - Git add : perintah yang digunakan untuk menambahkan file baru di repository yang dipilih.
-    $ git add <directory>
-    $ git add .
+   ##### $ git add <directory>
+   ##### $ git add .
 - Git commit : digunakan untuk menyimpan perubahan yang sudah dilakukan, namun tidak ada perubahan yang terjadi pada remote repository
-    $ git commit -m "add config file"
+   ##### $ git commit -m "add config file"
 
 3. Inspecting Repository
 - Git log : untuk melihat catatan log perubahan pada respositori
-    $ git log --online #Viewing an old revision
+   ##### $ git log --online #Viewing an old revision
 - Git checkout : sebuah perintah yang digunakan untuk menukar branch yang aktif dengan bracht yang sudah dipilih
-    $ git chekout 1aeBfb5
+   ##### $ git chekout 1aeBfb5
