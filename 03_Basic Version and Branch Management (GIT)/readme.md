@@ -1,7 +1,7 @@
-# yuk coba lagi
+# 03_Basic Version and Branch Management (GIT)
 
-## mudah mudahan bisagit 
+## Data Diri
+Nomer urut :
+Nama : 
 
-### ayoo dong bisaa
-
-### klo gabisa gua harus ngapain nihh
+## Summery
