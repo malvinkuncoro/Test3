@@ -4,6 +4,9 @@
 #### Nomer urut : 1_015FLB_36
 ####  Nama : Malvin Kuncoro Prawira
 
+## Task
+[https://docs.google.com/document/d/1LowJ-5zNPkbO-0JQ3ci9s_38q2XkKEsHkBNvx6xngM8/edit?usp=sharing]
+
 ## Summery
 
 ## Resume Materi KM Flutter Introduction Mobile App Development
